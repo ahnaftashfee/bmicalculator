@@ -5,7 +5,7 @@ The app allows users to input their height and weight, instantly calculates BMI,
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Height input in centimeters
 -  Weight input in kilograms
