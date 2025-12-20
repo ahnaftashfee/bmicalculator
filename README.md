@@ -33,6 +33,6 @@ The app allows users to input their height and weight, instantly calculates BMI,
 ##  Author
 
 **Mohammad Tashfee**  
-GitHub: https://github.com/ahnaftashfee
+Computer Science @ UCONN
 
 
